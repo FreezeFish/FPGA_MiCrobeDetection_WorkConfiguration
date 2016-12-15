@@ -6,7 +6,7 @@ Microbe detection methods based on NGS are showing advantages over traditional d
 
 ##Install
 ###Prerequisites
-1. Linux OS, tested on CentOS release 6.5 (server) and Ubuntu 15.10 (Desktop)
+1. Linux OS, tested on CentOS release 6.5 (server) and Ubuntu 12.01 (Desktop)
 2. FPGA Configuration
 
 ###Download and setup
